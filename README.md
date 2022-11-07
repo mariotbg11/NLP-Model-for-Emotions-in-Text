@@ -6,7 +6,7 @@ Model :
 - LSTM
 
 Datasset :
--Kaggle : https://www.kaggle.com/datasets/ishantjuyal/emotions-in-text
+- Kaggle : https://www.kaggle.com/datasets/ishantjuyal/emotions-in-text
 
 Accuracy :
 - [x] accuracy     : 99%
